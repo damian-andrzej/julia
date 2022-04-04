@@ -1,0 +1,65 @@
+body{
+  background-color:#E5EFC1;
+  margin:0;
+}
+h1{
+  margin: 0 auto;
+  font-size: 90px;
+  font-family: 'Sacramento', cursive;
+  color: #247881;
+}
+h2{
+  font-family: 'Times New Roman';
+  font-style: italic;
+  color: #247881;
+}
+#topdiv{
+  background-color:#E5EFC1;
+  text-align: center;
+  font-family: 'Times New Roman';
+  font-weight: bold;
+  font-size: 20px;
+  padding: 20px;
+  width: 400px;
+  margin: 0 auto;
+  /*border:solid 1px green;*/
+  padding-top: 60px;
+
+}
+.photo{
+  height: 300px;
+}
+.kwiat_photo{
+  padding-top: 200px;
+  width: 300px;
+  border-radius: 50%
+}
+.cloud{
+  position: absolute;
+  left:980px;
+}
+.cloud2{
+  position: absolute;
+  left:500px;
+}
+.middle-container{
+/*border:solid 3px green;*/
+margin-left:auto;
+margin-right: auto;
+top:500px;
+text-align: center;
+}
+.mountain{
+  position: absolute;
+  left: 540px;
+}
+.box{
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+}
+.bottomdiv{
+  width: 200px;
+  height: 200px;
+  background-color:#00FFC6;
+}
