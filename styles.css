@@ -11,7 +11,12 @@ h1{
 h2{
   font-family: 'Times New Roman';
   font-style: italic;
+  font-size: 34px;
   color: #247881;
+}
+h3{
+color:#11999E;
+font-size: 26px;
 }
 #topdiv{
   background-color:#E5EFC1;
@@ -26,17 +31,31 @@ h2{
   padding-top: 60px;
 
 }
+.skills{
+  margin-top: 100px;
+}
+.skill-row{
+  font-family: 'PT Sans Narrow', sans-serif;
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 100px;
+}
+.mouse{
+  float:left;
+  width: 150px;
+}
 .photo{
   height: 300px;
 }
 .kwiat_photo{
-  padding-top: 200px;
-  width: 300px;
+  margin-top: 250px;
+  width: 200px;
   border-radius: 50%
 }
 .cloud{
   position: absolute;
-  left:980px;
+  left:950px;
 }
 .cloud2{
   position: absolute;
@@ -51,7 +70,8 @@ text-align: center;
 }
 .mountain{
   position: absolute;
-  left: 540px;
+  left: 520px;
+  top: 340px;
 }
 .box{
   width: 200px;
